@@ -1,4 +1,3 @@
-# AReM_project
 
 ## AI FINAL PROJECT 
 
